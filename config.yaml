@@ -1,0 +1,17 @@
+
+
+# don't touch this
+client_id : ...
+client_secret : ...
+
+
+
+# copy from browser
+access_token : Bearer ....
+
+
+# urls of artists you want to collect from spotify
+urls :
+  - https://open.spotify.com/artist/0thmtYuAMzuqQlPgShS32R
+
+
